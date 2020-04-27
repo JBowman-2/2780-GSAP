@@ -13,7 +13,6 @@ twist.addEventListener('click', event => {
   let messVisible = document.querySelector(".messType");
 
   messVisible.addEventListener('keydown', event => {
-    console.log('is it workin');
     gsap.to(".messBut",{
         duration: 5,
         opacity: 1        
