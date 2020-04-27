@@ -149,6 +149,9 @@ figure {
 .tact {
   padding: 30px 0px;
 }
+.messBut {
+  opacity: 0;
+}
 .footBack {
   background-color: #936DB3;
   padding-top: 10px;
